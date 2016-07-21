@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onPar2\onPar2\bin\Debug\onPar2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onPar2\onPar2\bin\Debug\onPar2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onPar2\onPar2\bin\Debug\onPar2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onPar2\onPar2\obj\Debug\onPar2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onPar2\onPar2\obj\Debug\onPar2.pdb
